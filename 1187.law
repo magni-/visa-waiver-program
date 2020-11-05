@@ -29,7 +29,7 @@
     (10) Electronic transmission of identification information
       Operators of aircraft under part 135 of title 14, Code of Federal Regulations, or operators of noncommercial aircraft that are owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, carrying any alien passenger who will apply for admission under this section shall furnish such information as the Attorney General by regulation shall prescribe as necessary for the identification of any alien passenger being transported and for the enforcement of the immigration laws. Such information shall be electronically transmitted not less than one hour prior to arrival at the port of entry for purposes of checking for inadmissibility using the automated electronic database.
     (11) Eligibility determination under the electronic travel authorization system
-      Beginning on the date on which the electronic travel authorization system developed under subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the United States. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
+      Beginning on the date on which the electronic travel authorization system developed under subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk, including terrorism risk, in permitting, the alien to travel to the United States. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
 (b) Waiver of rights
   An alien may not be provided a waiver under the program unless the alien has waived any right-
     (1) to review or appeal under this chapter of an immigration officer's determination as to the admissibility of the alien at the port of entry into the United States, or
@@ -56,7 +56,7 @@
           The Attorney General, in consultation with the Secretary of State-
             (i) evaluates the effect that the country's designation would have on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
             (ii) determines that such interests would not be compromised by the designation of the country; and
-            (iii) submits a written report to the Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate regarding the country's qualification for designation that includes an explanation of such determination.
+            (iii) submits a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the country's qualification for designation that includes an explanation of such determination.
         (D) Reporting lost and stolen passports
           The government of the country enters into an agreement with the United States to report, or make available through Interpol or other means as designated by the Secretary of Homeland Security, to the United States Government information about the theft or loss of passports within a strict time limit and in a manner specified in the agreement.
         (E) Repatriation of aliens
@@ -83,8 +83,9 @@
               The Secretary of Homeland Security, in consultation with the Secretary of State, periodically (but not less than once every 2 years)-
                 (I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
                 (II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d);
-                (III) shall submit a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the continuation or termination of the country's designation that includes an explanation of such determination and the effects described in subclause (I); and
-                (IV) shall submit to Congress a report regarding the implementation of the electronic travel authorization system under subsection (h)(3) and the participation of new countries in the program through a waiver under paragraph (8).
+                (III) shall submit a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the continuation or termination of the country's designation that includes an explanation of such determination and the effects described in subclause (I);
+                (IV) shall submit to Congress a report regarding the implementation of the electronic travel authorization system under subsection (h)(3) and the participation of new countries in the program through a waiver under paragraph (8); and
+                (V) shall submit to Congress a report regarding the security parameters described in paragraph (9).
             (ii) Effective date
               A termination of the designation of a country under this subparagraph shall take effect on the date determined by the Secretary of Homeland Security, in consultation with the Secretary of State.
             (iii) Redesignation
@@ -109,6 +110,11 @@
                 (I) may suspend a country from the visa waiver program without prior notice;
                 (II) shall notify any country suspended under subclause (I) and, to the extent practicable without disclosing sensitive intelligence sources and methods, provide justification for the suspension; and
                 (III) shall restore the suspended country's participation in the visa waiver program upon a determination that the threat no longer poses an imminent danger to the United States or its citizens.
+            (v) Additional program suspension authority
+              If the Secretary of Homeland Security, in consultation with the Secretary of State, determines that a country participating in the visa waiver program has failed to comply with an agreement under subparagraph (F) of paragraph (2), the Secretary of Homeland Security—
+                (I) may suspend a country from the visa waiver program without prior notice;
+                (II) shall notify any country suspended under subclause (I) and provide justification for the suspension; and
+                (III) shall restore the suspended country’s participation in the visa waiver program upon a determination that the country is in compliance with the agreement at issue.
         (C) Treatment of nationals after termination
           For purposes of this paragraph-
             (i) nationals of a country whose designation is terminated under subparagraph (A) or (B) shall remain eligible for a waiver under subsection (a) until the effective date of such termination; and
@@ -258,7 +264,7 @@
                 (III) The results of the application.
     (3) Electronic travel authorization system
         (A) System
-          The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic travel authorization system (referred to in this paragraph as the "System") to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the United States.
+          The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic travel authorization system (referred to in this paragraph as the "System") to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk, including terrorism risk, in permitting, the alien to travel to the United States.
         (B) Fees
             (i) In general
               No later than 6 months after March 4, 2010, the Secretary of Homeland Security shall establish a fee for the use of the System and begin assessment and collection of that fee. The initial fee shall be the sum of-
@@ -270,7 +276,7 @@
               The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2020.
         (C) Validity
             (i) Period
-              The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination at any time and for any reason.
+              The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination at any time and for any reason, or, if the Secretary determines that such is appropriate, may limit such period of eligibility.
             (ii) Limitation
               A determination by the Secretary of Homeland Security that an alien is eligible to travel to the United States under the program is not a determination that the alien is admissible to the United States.
             (iii) Not a determination of visa eligibility
@@ -289,6 +295,11 @@
             (viii) the Committee on Foreign Relations of the Senate;
             (ix) the Select Committee on Intelligence of the Senate; and
             (x) the Committee on Appropriations of the Senate.
+        (E) Additional Reports
+            (i) Reports on certain limitations on travel
+              Not later than 30 days after the date of the enactment of this subparagraph and annually thereafter, the Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate a report on the number of individuals, identified by their countries of citizenship or nationality, who were denied eligibility to travel under the System or whose eligibility for such travel was revoked during the previous year if such individual was determined, in accordance with subsection (a)(6), to represent a threat to the security of the United States.
+            (ii) Reports on certain threat assessments
+              Beginning with the first report under clause (i) of subsection (c)(5)(A) that is submitted after the date of the enactment of this subparagraph and periodically thereafter (together with subsequent reports submitted under such clause (i)), the Secretary of Homeland Security, in consultation with the Director of National Intelligence, shall submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate a report that contains a threat assessment regarding the compliance of foreign governments with the agreements described in subparagraphs (D) and (F) of subsection (c)(2).
 (i) Exit system
     (1) In general
       Not later than one year after August 3, 2007, the Secretary of Homeland Security shall establish an exit system that records the departure on a flight leaving the United States of every alien participating in the visa waiver program established under this section.
